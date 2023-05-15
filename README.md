@@ -1,4 +1,4 @@
-# cgp-fsd-t37_RickMorty
+# Rick&Morty
 
 
 Realiza la siguiente interfaz utilizando para ello Angular Framework 12, debes integrar en el proyecto al menos dos componentes.
